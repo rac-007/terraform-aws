@@ -5,4 +5,5 @@ provider "aws" {
   #Done by feature 3
   #New line added  by feature 2
   #This line is added by feature 3
+  #Final change done by feature-1
 }
