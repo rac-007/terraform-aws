@@ -4,4 +4,5 @@ provider "aws" {
   region     = var.AWS_REGION
   #Done by feature 3
   #New line added  by feature 2
+  #This line is added by feature 3
 }
